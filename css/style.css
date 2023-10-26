@@ -1,5 +1,4 @@
 /* Header */
-
 .header_logo_link{
     color: var(--IRIS, #4D5AE5);
         font-family: "Raleway", sans-serif;
@@ -10,7 +9,6 @@
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
-
 .studio{
     color: var(--NAVY-BLUE, #2E2F42);
         font-family: Raleway;
@@ -22,8 +20,7 @@
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
-
-.ul_header_list{
+.header_link{
     color: var(--NAVY-BLUE, #2E2F42);
         font-size: 16px;
         font-weight: 500;
@@ -31,14 +28,38 @@
         letter-spacing: 0.32px;
         text-decoration: none;
 }
-
-.ul_header_list:hover{
+.header_link:hover{
 color: #404bbf;
 }
 
-.ul_header_list:focus{
+.header_link:focus{
     color: #404bbf;
 }
+
+.header_em_ph{
+    font-style: normal;
+}
+.header_link2{
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.header_link2:hover{
+    color: #404bbf;
+}
+.header_link2:focus{
+    color: #404bbf;
+}
+
+
+
+
+
+
+
+
+
 /* Body */
 body {
     font-family: "Roboto", sans-serif;
