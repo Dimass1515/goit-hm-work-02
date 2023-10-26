@@ -32,23 +32,23 @@
 color: #404bbf;
 }
 
-.link:focus{
+.linkx:focus{
     color: #404bbf;
 }
 
 .header_em_ph{
     font-style: normal;
 }
-.header_link2{
+.contact_link{
     font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
-.header_link2:hover{
+.contact_link:hover{
     color: #404bbf;
 }
-.header_link2:focus{
+.contact_link:focus{
     color: #404bbf;
 }
 
