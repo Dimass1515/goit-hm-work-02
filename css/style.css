@@ -29,8 +29,16 @@
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.32px;
+        text-decoration: none;
 }
 
+.ul_header_list:hover{
+color: #404bbf;
+}
+
+.ul_header_list:focus{
+    color: #404bbf;
+}
 /* Body */
 body {
     font-family: "Roboto", sans-serif;
