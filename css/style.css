@@ -79,7 +79,7 @@ color: var(--WHITE, #FFF);
 .button_link{
         background: var(--IRIS, #4D5AE5);
         color: var(--WHITE, #FFF);
-            font-family: Roboto;
+            font-family: "Roboto", sans-serif;
             font-size: 16px;
             font-style: normal;
             font-weight: 500;
@@ -94,3 +94,17 @@ color: var(--WHITE, #FFF);
 background: var(--OCEAN, #404BBF);
 }
 /* Section 1 */
+
+/* Section 2 */
+
+.list{
+    color: var(--NAVY-BLUE, #2E2F42);
+        font-family: "Roboto", sans-serif;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+
+/* Section 2 */
