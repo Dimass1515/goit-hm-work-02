@@ -183,6 +183,15 @@ background: var(--OCEAN, #404BBF);
         letter-spacing: 0.02em;
         text-transform: capitalize;
 }
+.header_three{
+    color: var(--NAVY-BLUE, #2E2F42);
+        font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
 /* Section 4 */ 
 
 /* Footer */ 
