@@ -172,6 +172,37 @@ background: var(--OCEAN, #404BBF);
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-
+.our_portfolio{
+    color: var(--NAVY-BLUE, #2E2F42);
+        text-align: center;
+        font-family: "Roboto", sans-serif;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+}
 /* Section 4 */ 
+
+/* Footer */ 
+
+.footer{
+    background: var(--NAVY-BLUE, #2E2F42);
+}
+.span_footer{
+    color: #f4f4fd;
+}
+.footer_p{
+    color: var(--CLOUD, #F4F4FD);
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+/* Footer */ 
+
 
